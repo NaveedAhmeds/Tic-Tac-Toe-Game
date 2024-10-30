@@ -1,8 +1,8 @@
-**Tic Tac Toe Game**
+Tic Tac Toe Game
 
 A command-line Tic Tac Toe game implemented in C++ using Object-Oriented Programming principles. This project demonstrates a clear understanding of classes, object management, and control flow, showcasing proficiency in foundational C++ concepts.
 
-**Table of Contents**
+Table of Contents
 
 Overview
 Features
@@ -17,7 +17,7 @@ Overview
 
 This project is a simple Tic Tac Toe game played on a 3x3 grid. Players alternate turns, attempting to place three of their marks (X or O) in a row horizontally, vertically, or diagonally. This project was created to demonstrate C++ programming skills, particularly in the usage of classes and object-oriented design.
 
-**Features**
+Features
 
 Player vs. Player Mode: Two players can play against each other.
 Error Handling: Prevents players from placing a mark on an already occupied cell.
@@ -38,7 +38,7 @@ Methods:
 startGame(): Initiates the game loop.
 checkWin(): Checks if a player has won after each move.
 checkDraw(): Checks if the board is full with no winner.
-**Board**
+Board
 
 Attributes: 2D array for the board grid
 Methods:
@@ -51,7 +51,7 @@ Methods:
 makeMove(board): Allows player to input a move.
 How to Run
 
-**Clone the Repository:**
+Clone the Repository:
 bash
 Copy code
 git clone https://github.com/yourusername/tic-tac-toe.git
@@ -68,7 +68,7 @@ Example Gameplay
 Below is an example of what gameplay might look like in the terminal:
 
 plaintext
-**Copy code**
+Copy code
 Player 1 (X), enter your move (row and column): 1 1
  X |   |  
 -----------
@@ -82,7 +82,7 @@ Player 2 (O), enter your move (row and column): 0 0
    | X |  
 -----------
    |   |  
-**Technologies Used**
+Technologies Used
 
 Programming Language: C++
 IDE/Compiler: Any C++ compatible compiler (e.g., g++, MSVC)
@@ -95,11 +95,11 @@ Contributing
 
 Feel free to open issues or submit pull requests for improvements and additional features. All contributions are welcome!
 
-**License**
+License
 
-**MIT License**
+MIT License
 
-**Copyright (c) 2024 Naveed Ahmed Syed**
+Copyright (c) 2024 Naveed Ahmed Syed
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, subject to the following conditions:
 
