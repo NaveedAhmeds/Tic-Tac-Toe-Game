@@ -104,7 +104,7 @@ Player 2 (O), enter your move (row and column): 0 0
 <h2 id="technologies-used"><strong>Technologies Used</strong></h2>
 <ul>
   <li><strong>Programming Language</strong>: C++</li>
-  <li><strong>IDE/Compiler</strong>: Any C++ compatible compiler (e.g., g++, MSVC)</li>
+  <li><strong>IDE/Compiler</strong>: Any C++ compatible compiler, Any IDE</li>
 </ul>
 
 <h2 id="future-improvements"><strong>Future Improvements</strong></h2>
